@@ -13,4 +13,8 @@ facenet model comes from https://github.com/davidsandberg/facenet
 
 there are two main codes  
 Googletrain_audioonly.py is used to train a model without the video part.  
+PIT(Permutation invariant training) is used to train the audio only model.
+
+
+
 Googletrain.py is used to train a model with both video and audio parts.
